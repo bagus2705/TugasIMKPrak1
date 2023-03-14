@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/140810200043_Bagus_1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/14081020004_Bagus_2.unity
+    guid: c4f56b58f588d3b43a58a9885c02d182
+  - enabled: 1
+    path: Assets/Scenes/140810200043_Bagus_3.unity
+    guid: 982381b1e0eb24847b4a730abf9b1c87
+  m_configObjects: {}
